@@ -783,7 +783,6 @@ slider {
 }
 
 .chat {
-/*    display: inline-block;*/
 /*    width: 239px;*/
 /*    height: 500px;*/
     border-radius: 10px;
@@ -1068,7 +1067,6 @@ textarea {
 }
 
 .statistic {
-/*    display: inline-block;*/
 /*    width: 239px;*/
 /*    height: 313px;*/
     border-radius: 10px;
@@ -1131,7 +1129,6 @@ textarea {
 }
 
 .socialnw_section {
-/*    display: inline-block;*/
 /*    width: 239px;*/
 /*    height: 104px;*/
     color: #ffffff;
